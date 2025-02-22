@@ -1,0 +1,2 @@
+# Lokalizasyon
+Pusat'ın denemeler
